@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently working on various UIs, SDKs, and programs related to AGiXT, an AI Automation Platform originally developed by [JoshXT](https://github.com/Josh-XT/AGiXT). Additionally, I'm developing multiple programs to help aid with ADHD, which interact with AGiXT.
+I am currently working on various UIs, SDKs, and programs related to AGiXT, an AI Automation Platform developed by [JoshXT](https://github.com/Josh-XT/AGiXT). Additionally, I'm developing multiple programs to help aid with ADHD, which interact with AGiXT.
 
 AGiXT is a dynamic platform that orchestrates efficient AI instruction management and task execution across multiple providers. It combines adaptive memory, smart features, and a versatile plugin system to enhance AI's understanding and responsiveness, transforming the interaction between users and AI.
 
