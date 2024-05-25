@@ -6,6 +6,10 @@ AGiXT is a dynamic platform that orchestrates efficient AI instruction managemen
 
 With a commitment to innovation, I'm dedicated to pushing the boundaries of AI and bringing Artificial General Intelligence (AGI) closer to reality. My ADHD-related programs aim to leverage the capabilities of AGiXT to provide tools and solutions that can assist individuals with ADHD in their daily lives.
 
+
+What programming languages do I work with? That's a great question - the truth is, I enjoy coding in a wide variety of mainstream languages. While I don't have a single 'go-to' language, the ones that tend to show up most often in my GitHub repositories include...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birdup000&layout=compact)](https://github.com/birdup000/github-readme-stats)
+
 <!--
 **birdup000/birdup000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
