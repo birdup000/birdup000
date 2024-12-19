@@ -1,26 +1,16 @@
-## Hi there 👋
+# Hi, I'm birdup000
+I'm a passionate developer with a focus on task management and productivity tools.
 
-I am currently working on various UIs and SDKs for AGiXT, an AI Automation Platform developed by [JoshXT](https://github.com/Josh-XT/AGiXT). I'm also developing multiple programs that interact with AGiXT to help aid with ADHD.
+## About Me
+I am the creator of the [ADHD Task Management Panel](https://github.com/birdup000/ADHD-TaskManagementPanel), a React Native application designed to help individuals with ADHD manage their tasks.
 
-AGiXT is a dynamic platform that orchestrates efficient AI instruction management and task execution across multiple providers. It combines adaptive memory, smart features, and a versatile plugin system to enhance AI's understanding and responsiveness, transforming the interaction between users and AI.
+## GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=birdup000&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdup000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birdup000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-With a commitment to innovation, I'm dedicated to pushing the boundaries of AI and bringing Artificial General Intelligence (AGI) closer to reality. My ADHD-related programs aim to leverage the capabilities of AGiXT to provide tools and solutions that can assist individuals with ADHD in their daily lives.
+## Visitor Count
+<img src="https://komarev.com/ghpvc/?username=birdup000&style=flat-square&color=blue" alt=""/>
 
-
-What programming languages do I work with? That's a great question - the truth is, I enjoy coding in a wide variety of mainstream languages. While I don't have a single 'go-to' language, the ones that tend to show up most often in my GitHub repositories include...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birdup000&layout=compact)](https://github.com/birdup000/github-readme-stats)
-
-<!--
-**birdup000/birdup000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notable Projects
+- [ADHD Task Management Panel](https://github.com/birdup000/ADHD-TaskManagementPanel)
