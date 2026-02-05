@@ -6,5 +6,6 @@ My name is Braden Dvorak, a 20 year old passonate programmer. I've been programm
 ## Visitor Count
 <img src="https://komarev.com/ghpvc/?username=birdup000&style=flat-square&color=blue" alt=""/>
 
-## Notable Projects
+## Notable Projects worked on
+- [AGiXT](https://github.com/Josh-XT/AGiXT)
 - [ADHD Task Management Panel](https://github.com/birdup000/ADHD-TaskManagementPanel)
