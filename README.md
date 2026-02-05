@@ -1,7 +1,7 @@
-# Hi, I'm birdup000 on the internet. My name is Braden Dvorak, a 20 year old passonate programmer.
+# Hi, I'm birdup000 on the internet
 
 ## About Me
-I am the creator of the [ADHD Task Management Panel](https://github.com/birdup000/ADHD-TaskManagementPanel), a React Native application designed to help individuals with ADHD manage their tasks.
+My name is Braden Dvorak, a 20 year old passonate programmer. I've been programming for 8+ years, proficient in many programming languages. 
 
 ## Visitor Count
 <img src="https://komarev.com/ghpvc/?username=birdup000&style=flat-square&color=blue" alt=""/>
